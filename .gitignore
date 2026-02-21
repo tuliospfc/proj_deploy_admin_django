@@ -29,3 +29,6 @@ Thumbs.db
 # Arquivos sensíveis
 .env
 secrets.py
+
+# PythonAnywhere
+*.swp
